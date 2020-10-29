@@ -4,9 +4,13 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Restaurant.Business.Abstract;
+using Restaurant.Business.Abstract.Orders;
 using Restaurant.Business.Concrete.Customers;
+using Restaurant.Business.Concrete.Orders;
 using Restaurant.DataAcess.Abstract.Customers;
+using Restaurant.DataAcess.Abstract.Orders;
 using Restaurant.DataAcess.Concrete.EntityFrameworkCore.Customers;
+using Restaurant.DataAcess.Concrete.EntityFrameworkCore.Orders;
 using Swashbuckle.Swagger;
 
 namespace Restaurant.WEBAPI
@@ -25,6 +29,8 @@ namespace Restaurant.WEBAPI
         {
             services.AddTransient<ICustomerService, CustomerManager>();
             services.AddTransient<ICustomerDal, EfCustomerDal>();
+            services.AddTransient<IOrderService, OrderManager>();
+            services.AddTransient<IOrdersDal, EfOrderDal>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1",new Microsoft.OpenApi.Models.OpenApiInfo
