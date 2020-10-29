@@ -1,0 +1,12 @@
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\bin\Debug\netcoreapp3.1\Restaurant.Entities.deps.json
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\bin\Debug\netcoreapp3.1\Restaurant.Entities.dll
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\bin\Debug\netcoreapp3.1\Restaurant.Entities.pdb
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\bin\Debug\netcoreapp3.1\Restaurant.Core.dll
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\bin\Debug\netcoreapp3.1\Restaurant.Core.pdb
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\obj\Debug\netcoreapp3.1\Restaurant.Entities.csprojAssemblyReference.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\obj\Debug\netcoreapp3.1\Restaurant.Entities.AssemblyInfoInputs.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\obj\Debug\netcoreapp3.1\Restaurant.Entities.AssemblyInfo.cs
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\obj\Debug\netcoreapp3.1\Restaurant.Entities.csproj.CoreCompileInputs.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\obj\Debug\netcoreapp3.1\Restaurant.Entities.csproj.CopyComplete
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\obj\Debug\netcoreapp3.1\Restaurant.Entities.dll
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Entities\obj\Debug\netcoreapp3.1\Restaurant.Entities.pdb

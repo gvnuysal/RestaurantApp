@@ -1,0 +1,9 @@
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\bin\Debug\netcoreapp3.1\Restaurant.Business.Contract.deps.json
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\bin\Debug\netcoreapp3.1\Restaurant.Business.Contract.dll
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\bin\Debug\netcoreapp3.1\Restaurant.Business.Contract.pdb
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\obj\Debug\netcoreapp3.1\Restaurant.Business.Contract.csprojAssemblyReference.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\obj\Debug\netcoreapp3.1\Restaurant.Business.Contract.AssemblyInfoInputs.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\obj\Debug\netcoreapp3.1\Restaurant.Business.Contract.AssemblyInfo.cs
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\obj\Debug\netcoreapp3.1\Restaurant.Business.Contract.csproj.CoreCompileInputs.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\obj\Debug\netcoreapp3.1\Restaurant.Business.Contract.dll
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Business.Contract\obj\Debug\netcoreapp3.1\Restaurant.Business.Contract.pdb

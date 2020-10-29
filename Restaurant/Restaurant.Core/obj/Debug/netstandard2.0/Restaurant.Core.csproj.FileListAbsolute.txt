@@ -1,0 +1,9 @@
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\bin\Debug\netstandard2.0\Restaurant.Core.deps.json
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\bin\Debug\netstandard2.0\Restaurant.Core.dll
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\obj\Debug\netstandard2.0\Restaurant.Core.csprojAssemblyReference.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\obj\Debug\netstandard2.0\Restaurant.Core.AssemblyInfoInputs.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\obj\Debug\netstandard2.0\Restaurant.Core.AssemblyInfo.cs
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\bin\Debug\netstandard2.0\Restaurant.Core.pdb
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\obj\Debug\netstandard2.0\Restaurant.Core.csproj.CoreCompileInputs.cache
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\obj\Debug\netstandard2.0\Restaurant.Core.dll
+C:\GvnProje\Angular\RestaurantApp\Restaurant\Restaurant.Core\obj\Debug\netstandard2.0\Restaurant.Core.pdb
